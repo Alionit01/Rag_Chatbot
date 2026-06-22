@@ -1,0 +1,65 @@
+/* style.css */
+
+/* Minimalist Dark Background */
+.stApp {
+    background-color: #111111;
+    color: #E5E5E5;
+}
+
+/* FORCED CHAT AVATAR COLOR FIX */
+/* Targets the inner icon placeholder backgrounds for the assistant */
+div[data-testid="stChatMessage"] svg,
+div[data-testid="stChatMessageAvatarAssistant"] > div,
+div[data-testid="stChatMessageAvatarAssistant"] {
+    background-color: #111111 !important; /* Forces background to Red */
+    color: #FFFFFF !important;
+    fill: #FFFFFF !important;
+}
+
+/* Clean Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #111111;
+    border-right: 1px solid #1F1F1F;
+}
+
+/* Main Title Element */
+h1 {
+    color: #E5E5E5 !important; 
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+h2, h3, [data-testid="stWidgetLabel"] p {
+    color: #E5E5E5 !important;
+}
+
+/* Chat bubbles: Obsidian block with dark borders */
+.stChatMessage {
+    background-color: #111111;
+    border: 1px solid #222222;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+/* Input Focus State: Crisp Red Accent Ring */
+input, textarea {
+    background-color: #111111 !important;
+    color: #E5E5E5 !important;
+    border: 1px solid #222222 !important;
+}
+
+input:focus, textarea:focus {
+    border-color: #E63946 !important;
+    box-shadow: 0 0 0 1px #E63946 !important;
+}
+
+/* Customizing Streamlit alert/warning notification bars */
+div[data-testid="stNotification"] {
+    background-color: #111111 !important;
+    border: 1px solid #3A1F1B !important;
+    color: #E5E5E5 !important;
+}
+
+hr {
+    border-color: #1F1F1F !important;
+}

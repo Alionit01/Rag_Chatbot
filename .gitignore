@@ -1,0 +1,24 @@
+cat << 'EOF' > .gitignore
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database / Dynamic data
+orders.json
+
+# Environment variables / API Keys
+.env
+EOF
+
+cat << 'EOF' >> .gitignore
+
+# Streamlit specific secrets
+.streamlit/
+EOF

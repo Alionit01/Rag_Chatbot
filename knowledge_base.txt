@@ -1,0 +1,33 @@
+SwiftDeliver Logistics - Customer Support & Delivery Policy
+
+1. Delivery Timeline
+Standard delivery time is 3 to 5 business days depending on location within Pakistan.
+Remote areas may take up to 7 business days.
+
+2. Order Confirmation Policy
+All orders must be confirmed by the customer before dispatch.
+Unconfirmed orders may be placed on hold or cancelled automatically.
+
+3. Address Change Policy
+Customers can update their delivery address only before the order is dispatched.
+Once the order is shipped, address changes are not allowed.
+
+4. Cancellation Policy
+Orders can be cancelled before dispatch without any charges.
+Once shipped, cancellation is not possible.
+
+5. Return & Refund Policy
+Customers can request a return within 7 days of delivery if the product is damaged or incorrect.
+Refunds are processed within 5–7 working days after verification.
+
+6. Cash on Delivery (COD)
+COD is available for selected cities only including Karachi, Lahore, and Islamabad.
+Orders above Rs. 20,000 may require advance confirmation call.
+
+7. Fraud Prevention Policy
+Orders with incomplete or suspicious information may be flagged for manual review.
+Repeated fake orders may result in blocked service access.
+
+8. Customer Support
+Support is available from 9 AM to 9 PM via automated AI assistant.
+Urgent issues are escalated to human agents.
